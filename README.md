@@ -1,2 +1,2 @@
-# home_work_12
+Проект для знакомства с unittest
 linux
